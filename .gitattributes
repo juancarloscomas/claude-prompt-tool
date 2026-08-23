@@ -1,0 +1,6 @@
+*.svg text
+*.tsx linguist-detectable
+public/index.html linguist-vendored
+*.map linguist-generated  
+public/* linguist-vendored
+src/**/*.ts linguist-detectable
