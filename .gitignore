@@ -1,0 +1,9 @@
+build/
+.env.local
+.env
+dist/
+.pnpm-store/
+.next/
+.cache/
+*.tgz
+npm-debug.log*
